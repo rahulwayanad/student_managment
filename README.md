@@ -1,15 +1,29 @@
-#Required
-php8
-node16
-npm
+# Student management System
+## Follow the below steps to setup project
 
-#steps
+[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+
+Rahul Manayath
+
+## Requirements  - Laravel 9
+
+- PHP -  8
+- Node - 18+
+- MySql
+- Npm - 6+
+
+## Steps
+
+Run following commands
+
+```sh
 git clone https://github.com/rahulwayanad/student_managment.git
-
-composer update 
+cd student_managment
+composer install
 npm install
-npm run dev
+npm dev run
 php artisan migrate
+php artisan serve
+```
 
-#step2
 
