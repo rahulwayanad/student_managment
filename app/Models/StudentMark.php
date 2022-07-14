@@ -27,7 +27,7 @@ class StudentMark extends Model
 
     /**
      * DESCRIPTION : This Function return student
-     * @Created by shineraj@protracked.in on (12 Jul 2022 at 3:45 PM)
+     * @Created by rahulmeppadi@gmail.com on (12 Jul 2022 at 3:45 PM)
      */
     public function student()
     {
@@ -37,7 +37,7 @@ class StudentMark extends Model
     /**
      * DESCRIPTION : This Function return total
      * @return string
-     * @Created by shineraj@protracked.in on (13 Jul 2022 at 6:34 PM)
+     * @Created by rahulmeppadi@gmail.com on (13 Jul 2022 at 6:34 PM)
      */
     public function getTotalAttribute()
     {
@@ -47,7 +47,7 @@ class StudentMark extends Model
     /**
      * DESCRIPTION : This Function return created on
      * @return string
-     * @Created by shineraj@protracked.in on (13 Jul 2022 at 6:34 PM)
+     * @Created by rahulmeppadi@gmail.com on (13 Jul 2022 at 6:34 PM)
      */
     public function getCreatedOnAttribute()
     {

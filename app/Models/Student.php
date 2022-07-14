@@ -24,7 +24,7 @@ class Student extends Model
 
     /**
      * DESCRIPTION : This Function return teacher
-     * @Created by shineraj@protracked.in on (12 Jul 2022 at 3:45 PM)
+     * @Created by rahulmeppadi@gmail.com on (12 Jul 2022 at 3:45 PM)
      */
     public function teacher()
     {
